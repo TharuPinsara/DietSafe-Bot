@@ -73,11 +73,6 @@ ability to handle high-dimensional, non-linear nutritional data via kernel trick
 - **Transparency:** the bot is not a substitute for professional medical or
   dietary advice.
 
-## Report
-
-See [`DietSafeBot_Report.pdf`](./DietSafeBot_Report.pdf) for the full write-up,
-including EDA visuals, confusion matrices, and detailed methodology.
-
 ## References
 
 - Scikit-learn Documentation — https://scikit-learn.org/stable/
