@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data files (add dataset here if you keep large CSVs locally, not in git)
+*.csv
+data/
+
+# OS / editor cruft
+.DS_Store
+*.swp
