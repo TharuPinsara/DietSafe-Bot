@@ -1,8 +1,5 @@
 # DIETSAFE BOT — Predicting Food Healthiness
 
-**Course:** IT2110 – Artificial Intelligence & Machine Learning, SLIIT
-**Group ID:** 2025-Y2-S1-MLB-B8G2-07
-
 An AI/ML project that classifies recipes from the Epicurious Recipe Dataset as
 **healthy** or **unhealthy** based on nutritional features (calories, fat, protein,
 sodium, fiber, etc.), supporting home cooks, restaurants, and healthcare providers
